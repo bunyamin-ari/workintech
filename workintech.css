@@ -1,0 +1,157 @@
+
+.upperside {
+
+display: flex;
+flex-direction: row;
+gap:50%
+
+}
+
+.upperside h1 {
+    color:white;
+}
+
+.exit {
+display: flex;
+flex-direction: row;
+gap:10px;
+margin:20px;
+}
+
+.exitimg {
+    width:40px;
+    height:40px;
+}
+
+.baslik h3 {
+    color:white;
+}
+
+.baslik h5 {
+    color:gray;
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+h2 {
+    color:white;
+}
+
+
+nav {
+display: flex;
+flex-direction: column;
+margin:20px;
+gap:20px;
+}
+
+nav a {
+    color:white;
+
+}
+
+
+
+.logo {
+    display: flex;
+    flex-direction: row;
+margin:20px;
+gap:5px;
+}
+
+#wlogo {
+width:20%;
+height:auto;
+
+}
+
+
+
+.left-side {
+display: flex;
+flex-direction: column;
+width:30vw;
+height:120vh;
+background-color:black;
+}
+
+
+
+.right-side {
+
+display:flex;
+flex-direction: column;
+width:70vw;
+height:100vh;
+
+background-image:url(OIP.jpg)
+
+
+}
+
+
+body {
+display: flex;
+flex-direction: row;
+
+
+}
+
+
+.govde .canli {
+
+    color:white;
+}
+
+div h5 {
+    color:yellow;
+}
+
+div h3 {
+    color:white;
+}
+
+.ay {
+color:white;
+background-color: black;
+width: 10vw;
+
+}
+
+.katil {
+color:white;
+background-color: rgb(47, 155, 61);
+}
+
+.canli {
+    font-weight: bold;
+font-size: 40px;
+}
+
+.canlimg {
+    width:100px;
+    height:100px;
+}
+
+.sirala {
+    display: flex;
+    flex-direction: row;
+    gap:20px;
+}
+
